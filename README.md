@@ -1,4 +1,4 @@
-## Exemplo simples de chamada de uma funçaõ exportada no NodeJS
+## Exemplo simples de chamada de uma função exportada no NodeJS
 
 ### Dentro da pasta raiz do projeto execute:
 
