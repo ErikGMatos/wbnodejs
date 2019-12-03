@@ -2,8 +2,9 @@
 
 ### Dentro da pasta raiz do projeto execute:
 
-```bash
-  npm i
+```console
+fernando.cruz:~$ npm i
+installing dependencies...
 ```
 
 ### Agora com a extensao do [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) instalada adicione um `breakpoint` e aperte `F5` para iniciar a depuração.
